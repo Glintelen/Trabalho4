@@ -1,0 +1,8 @@
+struct bolsa {
+char nomecompanhia[50];
+char areaatuacao[30];
+double valoracao;
+double valoranterioracao;
+double variacaopercentual;
+
+} acao1, acao2;
